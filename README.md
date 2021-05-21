@@ -40,4 +40,10 @@ Constroido por Hugo Rodrigues Pereira.
 
 ### Licença
 Esse projeto foi desenvolvido com a licença MIT para mais informações leia o arquivo
-[licença](LICENCE)
+[licença](LICENSE)
+
+## Agradecimentos
+Meus mais sinceros agradecimentos a você, ao entrar no meu projeto faça um bom aproveitamento do codigo, e bons estudos.
+
+## Versão do Projeto
+projeto_mercado v1.0.0  
