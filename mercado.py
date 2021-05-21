@@ -247,7 +247,7 @@ def main() -> None:
     Esse progrma foi criado pelo estudante de programacao:
     Hugo Rodrigues Pereira.
     Siga e o reposirio no GutHub: 
-    >>  https://github.com/HugoRodriguesPereira/projeto_mercado   
+    >>  https://github.com/HugoRodrigues01/projeto_mercado   
             \033[m""")
             print("-" * 50)
             main()
