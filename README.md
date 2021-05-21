@@ -2,7 +2,7 @@
 
 ## ATENÇÃO!!. Esse programa foi desenvolvido para a plataforma linux.
 
-## ====================================================================
+## ==================================================================
 
 ### O que faz ?
 Esse programa tem a capacidade de criar um database no banco de dados 
@@ -27,3 +27,17 @@ Caso você tenha algum problema tente da as permissões ao
 directory do projeto e execútalo novamente:
 
 	chmode -R 777 projeto_mercado
+	
+
+
+### Construido com:
+* python v3.9.4
+* PyMySQL v1.0.2
+* jsonpickle v2.0.0
+
+### Autores
+Constroido por Hugo Rodrigues Pereira.
+
+### Licença
+Esse projeto foi desenvolvido com a licença MIT para mais informações leia o arquivo
+[licença](LICENCE)
