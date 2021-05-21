@@ -3,6 +3,7 @@
 ATENÇÃO!!. Esse programa foi desenvolvido para a plataforma linux.
 
 ===============================================
+
 Para que ele funcione,  no seu sistema você,
 nessecita de um banco de dados ativo no mesmo.
 
