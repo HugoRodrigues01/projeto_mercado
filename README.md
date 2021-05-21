@@ -1,5 +1,6 @@
-https://img.shields.io/github/repo-size/HugoRodrigues01/projeto_mercado?label=Tamanho
-https://img.shields.io/github/license/HugoRodrigues01/projeto_mercado?label=Licen%C3%A7a
+![Tamanho](https://img.shields.io/github/repo-size/HugoRodrigues01/projeto_mercado?label=Tamanho)
+![Licença](https://img.shields.io/github/license/HugoRodrigues01/projeto_mercado)
+![](https://img.shields.io/github/languages/top/HugoRodrigues01/projeto_mercado)
 
 # Projeto Mercado
 
