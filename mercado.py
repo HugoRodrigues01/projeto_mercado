@@ -264,10 +264,10 @@ def main() -> None:
         print("-" * 50)
         print('\033[1mObrigado por entrar no nosso programa. Volte semore :)\033[m')
         print("-" * 50)
+    except ValueError:
+        pass
     except TypeError:
         print("\033[1;31mErro de tipo!\033[m")
-    except ValueError:
-        print("\033[1;31mErro de valor!\033[m")
     except IndentationError:
         print("\033[1;31mErro de indentacao!\033[m")
     except:

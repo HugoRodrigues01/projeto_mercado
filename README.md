@@ -50,4 +50,4 @@ Esse projeto foi desenvolvido com a licença MIT para mais informações leia o 
 Meus mais sinceros agradecimentos a você, ao entrar no meu projeto faça um bom aproveitamento do codigo, e bons estudos.
 
 ## Versão do Projeto
-projeto_mercado v1.0.0  
+projeto_mercado v1.0.1  
